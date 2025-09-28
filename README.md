@@ -4,7 +4,7 @@ Welcome to the Amazon Store Sales Analytics Project repository! 🚀
 This project presents an end-to-end data analytics solution, from raw data processing to rich, interactive Power BI dashboards. It showcases best practices in data modeling, transformation, and business intelligence reporting.
 
 📈 **Power BI Dashboard Overview**
-✅ **Key Metrics Displaye**d:
+✅ **Key Metrics Displayed**:
 Total Sales: 341K
 Total Profit: 27K
 Total Products Sold: 1K
