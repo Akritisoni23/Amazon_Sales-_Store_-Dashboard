@@ -22,12 +22,12 @@ This project presents an end-to-end data analytics solution, from raw data proce
 
 
 🧠 **Project Goals**: 
--**🔹 Data Modeling**
+**-🔹 Data Modeling**
 - Designed dimension and fact tables to support slicing across segments, categories, payment modes, and time.
--**🔹 Data Cleansing & Transformation**
+**-🔹 Data Cleansing & Transformation**
 - Resolved missing values and standardized date and category fields.
 - Integrated datasets from multiple domains (orders, customers, returns) into unified models.
--**🔹 Analytics & Business Intelligence**
+**-🔹 Analytics & Business Intelligence**
 - Built detailed Power BI dashboards for:
 - Customer behavior
 - Product performance
@@ -48,7 +48,7 @@ This project highlights hands-on experience in:
 - GitHub – For version control and collaboration 
 
 **🛡️ License**
-This project is licensed under the MIT License.You’re welcome to use, remix, or share it with proper attribution.
+-This project is licensed under the MIT License.You’re welcome to use, remix, or share it with proper attribution.
 
 🌟 **About Me**
 Hi there! I'm **Akriti soni**. I’m an IT professional and passionate working with data enjoyable and engaging!
