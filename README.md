@@ -4,33 +4,35 @@ Welcome to the Amazon Store Sales Analytics Project repository! 🚀
 This project presents an end-to-end data analytics solution, from raw data processing to rich, interactive Power BI dashboards. It showcases best practices in data modeling, transformation, and business intelligence reporting.
 
 📈 **Power BI Dashboard Overview**
+
 ✅ **Key Metrics Displayed**:
-Total Sales: 341K
-Total Profit: 27K
-Total Products Sold: 1K
-Total Orders: 711
+- Total Sales: 341K
+- Total Profit: 27K
+- Total Products Sold: 1K
+- Total Orders: 711
+
 
 📊 **Dashboard Visuals Include**:
-Sales by Segment, Category, Sub-Category
-Sales & Profit Trends (Monthly & Quarterly)
-Sales by Payment Mode & Ship Mode
-Sales by US State (Map)
-Returns by Return Status
-Interactive Filters by Region and State
+- Sales by Segment, Category, and Sub-Category
+- Sales & Profit Trends (Monthly & Quarterly)
+- Sales by Payment Mode & Ship Mode
+- Sales by US State (Map)
+- Returns by Return Status
+- Interactive Filters by Region and State
+
 
 🧠 **Project Goals**
-Data Modeling
-Designed dimension and fact tables to support slicing across segments, categories, payment modes, and time.
-Data Cleansing & Transformation
-Resolved missing values, standardized date and category fields.
-Joined datasets from multiple domains (orders, customers, returns) into unified models.
-Analytics & BI
-
-**Built detailed Power BI dashboards for**:
-Customer behavior
-Product performance
-Sales and profit trends
-Operational insights like returns and shipping modes
+🔹 Data Modeling
+- Designed dimension and fact tables to support slicing across segments, categories, payment modes, and time.
+🔹 Data Cleansing & Transformation
+- Resolved missing values and standardized date and category fields.
+- Integrated datasets from multiple domains (orders, customers, returns) into unified models.
+🔹 Analytics & Business Intelligence
+- Built detailed Power BI dashboards for:
+- Customer behavior
+- Product performance
+- Sales and profit trends
+- Operational insights (returns, shipping modes)
 
 💡 **Skills Demonstrated**
 This project highlights hands-on experience in:
@@ -41,9 +43,9 @@ This project highlights hands-on experience in:
 🔹 Dashboard Storytelling
 
 📌 **Tools Used**
-Power BI Desktop - For making dashboard
-CSV Files – As data source
-GitHub – Version control and collaboration
+**Power BI Desktop** - For making dashboard
+**CSV Files**– As data source
+**GitHub **– Version control and collaboration
 
 🛡️ **License**
 This project is licensed under the MIT License.You’re welcome to use, remix, or share it with proper attribution.
