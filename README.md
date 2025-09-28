@@ -22,32 +22,32 @@ This project presents an end-to-end data analytics solution, from raw data proce
 
 
 🧠 **Project Goals**
-🔹 Data Modeling
+**🔹 Data Modeling**
 - Designed dimension and fact tables to support slicing across segments, categories, payment modes, and time.
-🔹 Data Cleansing & Transformation
+**🔹 Data Cleansing & Transformation**
 - Resolved missing values and standardized date and category fields.
 - Integrated datasets from multiple domains (orders, customers, returns) into unified models.
-🔹 Analytics & Business Intelligence
+**🔹 Analytics & Business Intelligence**
 - Built detailed Power BI dashboards for:
 - Customer behavior
 - Product performance
 - Sales and profit trends
 - Operational insights (returns, shipping modes)
 
-💡 **Skills Demonstrated**
+**💡 Skills Demonstrated**
 This project highlights hands-on experience in:
-🔹 Power BI Reporting
-🔹 Data Cleaning and Preparation
-🔹 Star Schema Design
-🔹 Data Analysis & KPI Design
-🔹 Dashboard Storytelling
+- Power BI Reporting
+- Data Cleaning and Preparation
+- Star Schema Design
+- Data Analysis & KPI Design
+- Dashboard Storytelling
 
-📌 **Tools Used**
-**Power BI Desktop** - For making dashboard
-**CSV Files**– As data source
-**GitHub **– Version control and collaboration
+**📌 Tools Used**
+- **Power BI Desktop** – For dashboard creation
+- **CSV Files** – As data sources
+- **GitHub **– For version control and collaboration 
 
-🛡️ **License**
+**🛡️ License**
 This project is licensed under the MIT License.You’re welcome to use, remix, or share it with proper attribution.
 
 🌟 **About Me**
