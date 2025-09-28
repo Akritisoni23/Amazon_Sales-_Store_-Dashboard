@@ -22,6 +22,7 @@ This project presents an end-to-end data analytics solution, from raw data proce
 
 
 🧠 **Project Goals**: 
+
 **-🔹 Data Modeling**
 - Designed dimension and fact tables to support slicing across segments, categories, payment modes, and time.
 **-🔹 Data Cleansing & Transformation**
